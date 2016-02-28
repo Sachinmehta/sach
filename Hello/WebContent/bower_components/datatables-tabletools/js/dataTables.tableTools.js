@@ -10,8 +10,8 @@
  * @description Tools and buttons for DataTables
  * @version     2.2.4
  * @file        dataTables.tableTools.js
- * @author      SpryMedia Ltd (www.sprymedia.co.uk)
- * @contact     www.sprymedia.co.uk/contact
+ * @author      SpryMedia Ltd (websitenamesprymedia.co.uk)
+ * @contact     websitenamesprymedia.co.uk/contact
  * @copyright   Copyright 2009-2015 SpryMedia Ltd.
  *
  * This source file is free software, available under the following license:
@@ -21,7 +21,7 @@
  * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
  * or FITNESS FOR A PARTICULAR PURPOSE. See the license files for details.
  *
- * For details please refer to: www.datatables.net
+ * For details please refer to: websitenamedatatables.net
  */
 
 
@@ -217,7 +217,7 @@ ZeroClipboard_TableTools.Client.prototype = {
 		}
 		else {
 			// all other browsers get an EMBED tag
-			html += '<embed id="'+this.movieId+'" src="'+ZeroClipboard_TableTools.moviePath+'" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="'+width+'" height="'+height+'" name="'+this.movieId+'" align="middle" allowScriptAccess="always" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="www.macromedia.com/go/getflashplayer" flashvars="'+flashvars+'" wmode="transparent" />';
+			html += '<embed id="'+this.movieId+'" src="'+ZeroClipboard_TableTools.moviePath+'" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="'+width+'" height="'+height+'" name="'+this.movieId+'" align="middle" allowScriptAccess="always" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="websitenamemacromedia.com/go/getflashplayer" flashvars="'+flashvars+'" wmode="transparent" />';
 		}
 		return html;
 	},
@@ -3170,7 +3170,7 @@ if ( typeof $.fn.dataTable == "function" &&
 }
 else
 {
-	alert( "Warning: TableTools requires DataTables 1.9.0 or newer - www.datatables.net/download");
+	alert( "Warning: TableTools requires DataTables 1.9.0 or newer - websitenamedatatables.net/download");
 }
 
 $.fn.DataTable.TableTools = TableTools;
@@ -3200,7 +3200,7 @@ if ( typeof $.fn.dataTable == "function" &&
 }
 else
 {
-	alert( "Warning: TableTools 2 requires DataTables 1.9.0 or newer - www.datatables.net/download");
+	alert( "Warning: TableTools 2 requires DataTables 1.9.0 or newer - websitenamedatatables.net/download");
 }
 
 

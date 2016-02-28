@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns:xsi="www.w3.org/2001/XMLSchema-instance" xmlns="java.sun.com/xml/ns/javaee" xsi:schemaLocation="java.sun.com/xml/ns/javaee java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+<web-app xmlns:xsi="websitenamew3.org/2001/XMLSchema-instance" xmlns="java.sun.com/xml/ns/javaee" xsi:schemaLocation="java.sun.com/xml/ns/javaee java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
   <display-name>Hello</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>

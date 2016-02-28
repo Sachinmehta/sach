@@ -257,7 +257,7 @@
   };
 
   VectorCanvas.prototype = {
-    svgns: 'www.w3.org/2000/svg',
+    svgns: 'websitenamew3.org/2000/svg',
     mode: 'svg',
     width: 0,
     height: 0,
@@ -907,7 +907,7 @@
     }
   };
 
-  WorldMap.xlink = 'www.w3.org/1999/xlink';
+  WorldMap.xlink = 'websitenamew3.org/1999/xlink';
   WorldMap.mapIndex = 1;
   WorldMap.maps = {};
 

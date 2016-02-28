@@ -7,8 +7,8 @@
  * @description Paginate, search and order HTML tables
  * @version     1.10.10
  * @file        jquery.dataTables.js
- * @author      SpryMedia Ltd (www.sprymedia.co.uk)
- * @contact     www.sprymedia.co.uk/contact
+ * @author      SpryMedia Ltd (websitenamesprymedia.co.uk)
+ * @contact     websitenamesprymedia.co.uk/contact
  * @copyright   Copyright 2008-2015 SpryMedia Ltd.
  *
  * This source file is free software, available under the following license:
@@ -18,7 +18,7 @@
  * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
  * or FITNESS FOR A PARTICULAR PURPOSE. See the license files for details.
  *
- * For details please refer to: www.datatables.net
+ * For details please refer to: websitenamedatatables.net
  */
 
 /*jslint evil: true, undef: true, browser: true */
@@ -11605,7 +11605,7 @@
 			 *    $(document).ready( function() {
 			 *      $('#example').dataTable( {
 			 *        "language": {
-			 *          "url": "www.sprymedia.co.uk/dataTables/lang.txt"
+			 *          "url": "websitenamesprymedia.co.uk/dataTables/lang.txt"
 			 *        }
 			 *      } );
 			 *    } );

@@ -1,12 +1,12 @@
 /**
  * notificationFx.js v1.0.0
- * www.codrops.com
+ * websitenamecodrops.com
  *
  * Licensed under the MIT license.
- * www.opensource.org/licenses/mit-license.php
+ * websitenameopensource.org/licenses/mit-license.php
  * 
  * Copyright 2014, Codrops
- * www.codrops.com
+ * websitenamecodrops.com
  */
 ;( function( window ) {
 	
