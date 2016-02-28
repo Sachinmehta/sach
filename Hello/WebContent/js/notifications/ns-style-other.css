@@ -237,7 +237,7 @@
 	100% { opacity: 1; }
 }
 
-/* Box spinner (from http://tobiasahlin.com/spinkit/) */
+/* Box spinner (from tobiasahlin.com/spinkit/) */
 .ns-effect-boxspinner {
 	width: 250px; 
 	height: 90px;
@@ -454,7 +454,7 @@
 	animation-delay: 0.3s;
 }
 
-/* Generated with Bounce.js. Edit at http://goo.gl/6iLZu5 */
+/* Generated with Bounce.js. Edit at goo.gl/6iLZu5 */
 
 @-webkit-keyframes animJelly { 
 	0% { opacity: 0; -webkit-transform: matrix3d(0.7, 0, 0, 0, 0, 0.7, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform: matrix3d(0.7, 0, 0, 0, 0, 0.7, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); }

@@ -1,7 +1,7 @@
 /*!
  * jQVMap Version 1.1.0
  *
- * http://jqvmap.com
+ * jqvmap.com
  *
  * Copyright 2012-2015, Peter Schmalfeldt <manifestinteractive@gmail.com>
  * Copyright 2011-2012, Kirill Lebedev
@@ -257,7 +257,7 @@
   };
 
   VectorCanvas.prototype = {
-    svgns: 'http://www.w3.org/2000/svg',
+    svgns: 'www.w3.org/2000/svg',
     mode: 'svg',
     width: 0,
     height: 0,
@@ -907,7 +907,7 @@
     }
   };
 
-  WorldMap.xlink = 'http://www.w3.org/1999/xlink';
+  WorldMap.xlink = 'www.w3.org/1999/xlink';
   WorldMap.mapIndex = 1;
   WorldMap.maps = {};
 
